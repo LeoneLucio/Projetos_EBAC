@@ -1,2 +1,2 @@
-# Projetos_Ebac
-Projetos do Curso de Ciências de Dados da EBAC
+# Projetos
+Neste repositório estão os projetos mais relevantes do curso de ciência de dados da EBAC e também os meus projetos pessoais que considero mais relevantes.
